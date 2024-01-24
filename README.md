@@ -1,3 +1,3 @@
-# dsa
+# data structure and algorithm in Java
 
-my dsa exercises
+
